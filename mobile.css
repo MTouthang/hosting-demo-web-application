@@ -1,7 +1,17 @@
 /** mobile responsive ***/
-
+.h-logo {
+    display: flex;
+}
 .h-logo > img {
     width: 80px;
+}
+.h-logo img:nth-child(2){
+    width:15px;
+}
+.toggle {
+    padding-left: 10px;
+    display: block;
+    
 }
 .h-item  {
     display: none;

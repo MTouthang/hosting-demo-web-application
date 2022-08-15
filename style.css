@@ -10,6 +10,9 @@ body {
 }
 
 /********** Heading *****/
+.toggle{
+    display: none;
+}
 #header {
     margin: 0 6%;
     display: flex;
